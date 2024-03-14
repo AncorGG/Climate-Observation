@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="observationData.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<root>
+    <messages>
+
+        <element>
+            <key>subsetNumber</key>
+            <value>1</value>
+        </element>
+
+        <element>
+            <code>001001</code>
+            <index>1</index>
+            <key>blockNumber</key>
+            <reference>0</reference>
+            <scale>0</scale>
+            <units>Numeric</units>
+            <value>8</value>
+            <width>7</width>
+        </element>
+
+    </messages>
+</root>
