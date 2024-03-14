@@ -16,15 +16,15 @@ Lets check how the validation occurs
 
 Elements may be composed in one of these three ways
 
-[Basic Elements](img/BasicElements.png)
+[Basic Elements](https://github.com/AncorGG/Climate-Observation/blob/master/img/BasicElements.png)
 
 Key elements may only be composed of a key and a value
 
-[Key Elemet](img/KeyElement.png)
+[Key Elemet](https://github.com/AncorGG/Climate-Observation/blob/master/img/KeyElement.png)
 
 The Extended elements can have the value with the 'null' atributte but in either case it always has to exist.
 
-[Extended Element](img/ExtendedElement.png)
+[Extended Element](https://github.com/AncorGG/Climate-Observation/blob/master/img/ExtendedElement.png)
 
 
 ## Built With
